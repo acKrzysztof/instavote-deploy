@@ -10,5 +10,5 @@ spec:
     branch: main
   secretRef:
     name: github-instavote
-  url: https://github.com/acKrzysztof/instavote.git
+  url: https://github.com/acKrzysztof/instavote-deploy.git
 

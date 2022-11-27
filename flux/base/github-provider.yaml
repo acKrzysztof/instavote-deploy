@@ -5,7 +5,7 @@ metadata:
   name: github-status
   namespace: flux-system
 spec:
-  address: https://github.com/acKrzysztof/instavote.git
+  address: https://github.com/acKrzysztof/instavote-deploy.git
   secretRef:
     name: github-token
   type: github
