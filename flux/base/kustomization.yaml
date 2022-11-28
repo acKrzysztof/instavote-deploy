@@ -8,7 +8,6 @@ resources:
 - monitoring-config.yaml
 - monitoring-kube-prometheus-stack.yaml
 - monitoring-source.yaml
-- namespaces.yaml
 - redis-alert.yaml
 - redis-staging-ks.yaml
 - result-helmrelease.yaml
