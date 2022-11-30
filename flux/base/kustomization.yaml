@@ -3,3 +3,4 @@ kind: Kustomization
 resources:
 - instavote-source.yaml
 - vote-kustomization.yaml
+- redis-kustomization.yaml
